@@ -1,0 +1,7 @@
+.task__list {
+    color: red;
+}
+
+.task__item {
+    list-style-type: none;
+}
